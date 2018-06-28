@@ -1,2 +1,2 @@
 # learning_log
-Python从入门到实践后的作业
+《Python从入门到实践》后的练习实现
